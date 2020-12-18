@@ -33,7 +33,7 @@ MadSpam is a Spammer tool which is used to spam. This tool is very easy to use.
 * First you have to run mad spam.
 * Then put after how many second you want to start Mad Spam
 * Then put how many spam messages you want to send.
-Note : anywhere you want to send spam massage, you have to open that in your browser or where you want.
+* Note : anywhere you want to send spam massage, you have to open that in your browser or where you want.
 * Then just wait till your spammer will start.
 
 ### For Termux
