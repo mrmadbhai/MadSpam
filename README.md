@@ -26,6 +26,8 @@ MadSpam is a Spammer tool which is used to spam. This tool is very easy to use.
 * ls
 * python madspam.py
 
+* Boom Your Spammer is Ready.
+
 ### For Termux
 if you root your device then maybe this will work.
 
