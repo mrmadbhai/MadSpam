@@ -31,6 +31,11 @@ MadSpam is a Spammer tool which is used to spam. This tool is very easy to use.
 ### For Termux
 if you root your device then maybe this will work.
 
+### Screenshot
+
+
+![Screenshot ](https://github.com/mrmadbhai/MadSpam/blob/main/screenshot_of_MadSpam.jpg)
+
 ### Give me Star
 Please Give me star
 
