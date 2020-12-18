@@ -11,6 +11,10 @@ MadSpam is a Spammer tool which is used to spam. This tool is very easy to use.
 
 * Windows
 
+### Modules is Used to make MadSpam
+* pyautogui
+* random
+* time
 
 ### How To install
 
