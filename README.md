@@ -28,6 +28,14 @@ MadSpam is a Spammer tool which is used to spam. This tool is very easy to use.
 
 * Boom Your Spammer is Ready.
 
+### How to run MadSpam
+
+* First you have to run mad spam.
+* Then put after how many second you want to start Mad Spam
+* Then put how many spam messages you want to send.
+Note : anywhere you want to send spam massage, you have to open that in your browser or where you want.
+* Then just wait till your spammer will start.
+
 ### For Termux
 if you root your device then maybe this will work.
 
@@ -35,6 +43,8 @@ if you root your device then maybe this will work.
 
 
 ![Screenshot ](https://github.com/mrmadbhai/MadSpam/blob/main/screenshot_of_MadSpam.jpg)
+
+* I use on Whatsapp Web and i send only 10 messages.
 
 ### Give me Star
 Please Give me star
