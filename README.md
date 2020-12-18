@@ -46,6 +46,10 @@ if you root your device then maybe this will work.
 
 * I use on Whatsapp Web and i send only 10 messages.
 
+### Warning
+
+This Tool is only For fun and Educational purposes only. If You Use This tool for any illegal Activity then I am not responsible for that.
+
 ### Give me Star
 Please Give me star
 
